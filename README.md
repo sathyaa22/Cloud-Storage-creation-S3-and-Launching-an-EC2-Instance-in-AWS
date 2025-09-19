@@ -3,10 +3,10 @@
 #### NAME: SATHYAA R
 #### REG NO: 212223100052
 
-# Aim:
+## Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS. 
 
-# Procedure:
+## Procedure:
 
 a)	Steps to Create a first S3 Bucket:
 
@@ -61,7 +61,7 @@ d)	Steps to Clean Up (Terminate the Instance)
 1.	Go to EC2 Instances.
 2.	Select your instance → Instance State → Terminate.
 
-# Snap Shots:
+## Snap Shots:
 
 Snap Shot 1: Simple Storage Service (S3)
 
@@ -72,5 +72,5 @@ Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance
 <img width="981" height="583" alt="ss 2" src="https://github.com/user-attachments/assets/a598eb61-00b0-4d60-9c77-8e888a3af2e2" />
 
 
-# Result:
+## Result:
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS 
